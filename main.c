@@ -11,7 +11,7 @@ int main() {
     printf("Entrez la valeur maximale a ne pas depasser : ");
     scanf("%d", &max_val);
 
-    printf("Suite de Fibonacci a partir de %d:\n", t1);
+    printf("\nSuite de Fibonacci a partir de %d: ", t1);
 
     printf("%d, %d", t1, t2);
 
